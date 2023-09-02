@@ -61,10 +61,21 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
 <img src="https://raw.githubusercontent.com/rsagar024/rsagar024/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rsagar024&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
