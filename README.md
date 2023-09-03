@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="250" src="hacking.gif"  />
+<img align="right" height="250" src="hack.gif"  />
 
 ###
 
