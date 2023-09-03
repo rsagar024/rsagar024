@@ -69,7 +69,7 @@
 
 ###
 
-<img src="![Snake animation](https://github.com/rsagar024/rsagar024/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+<img src="https://github.com/rsagar024/rsagar024/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
