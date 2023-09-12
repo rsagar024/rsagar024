@@ -81,7 +81,7 @@
     srcset="https://raw.githubusercontent.com/rsagar024/rsagar024/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt=""
     src="https://raw.githubusercontent.com/rsagar024/rsagar024/output/github-contribution-grid-snake.svg"
   />
 </picture>
