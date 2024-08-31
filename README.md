@@ -70,19 +70,18 @@
 
 ###
 
-<img src="https://github.com/rsagar024/rsagar024/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rsagar024/rsagar024/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/rsagar024/rsagar024/blob/output/github-contribution-grid-snake.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rsagar024/rsagar024/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/rsagar024/rsagar024/blob/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt=""
-    src="https://raw.githubusercontent.com/rsagar024/rsagar024/output/github-contribution-grid-snake.svg"
+    alt="github contribution grid snake animation"
+    src="https://github.com/rsagar024/rsagar024/blob/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
