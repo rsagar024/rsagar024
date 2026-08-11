@@ -7,7 +7,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Quokka Labs LLP**
+- 🔭 I’m currently working on **Latinem Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Flutter, iOS Development and Ethical Hacking**
 
